@@ -1,2 +1,1 @@
-# CS-465-FullStack
-CS 465-FullStack with Mean
+# CS465-Travlr-2024
